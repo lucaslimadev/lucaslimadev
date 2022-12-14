@@ -1,5 +1,5 @@
 ### Hi I'am Lucas Lima 👨🏻‍💻
-   📚 Student of Systems Analysis and Development and passionate about technology.
+    Systems Analyst and Developer and passionate about technology.
    
 <div align="center">
  <a href="https://github.com/lucaslimadev">
