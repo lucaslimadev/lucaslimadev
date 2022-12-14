@@ -1,9 +1,7 @@
 ### Hi I'am Lucas Lima 👨🏻‍💻
-
-    Systems Analyst and Developer and passionate about technology.
+<p>Systems Analyst and Developer and passionate about technology.</p>
     
   ##
-   
    
 <div align="center">
  <a href="https://github.com/lucaslimadev">
