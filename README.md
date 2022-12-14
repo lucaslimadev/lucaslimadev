@@ -10,7 +10,21 @@
 </div>
    
   ##
- 
+    
+### ⚡️ Technologies
+<div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![ReactJs)(https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
+
+  ##
+    
+### 📍 Find me
 <div> 
   <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/lucaslimarm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-610095?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
