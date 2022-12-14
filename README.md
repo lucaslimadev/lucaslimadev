@@ -1,7 +1,16 @@
 ### Hi I'am Lucas Lima 👨🏻‍💻
 
     Systems Analyst and Developer and passionate about technology.
-    
+ 
+  ##
+
+### 📍 Find me
+<div> 
+  <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/lucaslimarm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-610095?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+  ##
    
 <div align="center">
  <a href="https://github.com/lucaslimadev">
@@ -21,11 +30,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
 
-
-  ##
-    
-### 📍 Find me
-<div> 
-  <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/lucaslimarm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-610095?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
