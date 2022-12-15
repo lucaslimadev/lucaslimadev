@@ -3,10 +3,10 @@
     
   ##
   
-### 📍 Find me
-<div> 
-  <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-black?style=flat-square&logo=linkedin&logoColor=blue" target="_blank"></a> 
-  <a href="https://instagram.com/lucaslimarm" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-black?style=flat-square&logo=instagram" target="_blank"></a>
+<div align="center">
+ <a href="https://github.com/lucaslimadev">
+  <img width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadev&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="420"src="https://github-readme-stats.vercel.app/api?username=lucaslimadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
    
   ##
@@ -21,12 +21,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
 
-  ##
-  
-<div align="center">
- <a href="https://github.com/lucaslimadev">
-  <img width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadev&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img width="420"src="https://github-readme-stats.vercel.app/api?username=lucaslimadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
-    
+  ##    
 
+### 📍 Find me
+<div> 
+  <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-black?style=flat-square&logo=linkedin&logoColor=blue" target="_blank"></a> 
+  <a href="https://instagram.com/lucaslimarm" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-black?style=flat-square&logo=instagram" target="_blank"></a>
+</div>
