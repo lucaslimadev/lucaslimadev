@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
-![Styled-Components](https://img.shields.io/badge/styled--components-black?style=flat-square&logo=styled-components&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/Styled-Components-black?style=flat-square&logo=styled-components)
 
   ##    
 
