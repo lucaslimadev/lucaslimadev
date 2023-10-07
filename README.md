@@ -17,11 +17,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Styled-Components](https://img.shields.io/badge/Styled--Components-black?style=flat-square&logo=styled-components)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-black?style=flat-square&logo=styled-components)
+
 
   ##    
 
