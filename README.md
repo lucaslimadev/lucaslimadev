@@ -12,8 +12,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=43853D)
-![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=316192)
+![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest&logoColor=AD1860)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=699eca)
 
 
   ##    
