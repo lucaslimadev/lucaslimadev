@@ -5,15 +5,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-black?style=flat-square&logo=styled-components)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
-![NodeJs](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=43853D)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=316192)
+![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=react=node.js&logoColor=43853D)
+![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=react=Jest&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=react=postgresql&logoColor=316192)
 
 
   ##    
