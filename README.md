@@ -14,6 +14,7 @@
 ![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=43853D)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest&logoColor=AD1860)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=699eca)
+![Redux](https://img.shields.io/badge/Redux-black?styleflat-square&logo==redux&logoColor=593D88)
 
 
   ##    
