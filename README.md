@@ -1,3 +1,7 @@
+### Education
+  
+Systems analyst and developer from the Federal Institute of Education, Science and Technology of Roraima.
+
   
 ### Technologies
 
