@@ -1,6 +1,6 @@
 ### Graduation
 
-🎓 Análise e Desenvolvimento de Sistemas — Instituto Federal de Roraima (IFRR)
+🎓 Systems Analysis and Development — Federal Institute of Roraima (IFRR)
 
 ---
 
