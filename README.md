@@ -1,10 +1,10 @@
-### Formação
+### Graduation
 
 🎓 Análise e Desenvolvimento de Sistemas — Instituto Federal de Roraima (IFRR)
 
 ---
 
-### Tecnologias
+### Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=43853D)
@@ -29,18 +29,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=003B57)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab&logoColor=FCA121)
-
----
-
-### Padrões e Arquiteturas
-
-![Clean Code](https://img.shields.io/badge/Clean_Code-black?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-black?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-black?style=flat-square)
-![MVVM](https://img.shields.io/badge/MVVM-black?style=flat-square)
-![DDD](https://img.shields.io/badge/DDD-black?style=flat-square)
-![TDD](https://img.shields.io/badge/TDD-black?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square)
 
 ---
 
