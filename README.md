@@ -6,6 +6,7 @@
 
 ### Tecnologias
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=43853D)
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -14,6 +15,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=593D88)
 ![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io)
 ![React Query](https://img.shields.io/badge/React_Query-black?style=flat-square&logo=react-query&logoColor=FF4154)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-black?style=flat-square&logo=react-hook-form&logoColor=EC5990)
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-black?style=flat-square&logo=styled-components)
@@ -27,9 +29,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=699eca)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=003B57)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
-![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab&logoColor=FC6D26)
-![WebSocket](https://img.shields.io/badge/WebSocket-black?style=flat-square&logo=websocket)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab&logoColor=FCA121)
 
 ---
 
