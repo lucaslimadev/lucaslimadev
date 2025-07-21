@@ -12,6 +12,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=593D88)
 ![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square)
 ![React Query](https://img.shields.io/badge/React_Query-black?style=flat-square&logo=react-query&logoColor=FF4154)
@@ -28,7 +29,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=003B57)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab&logoColor=FCA121)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io)
 
 ---
 
