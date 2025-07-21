@@ -6,7 +6,6 @@
 
 ### Tecnologias
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=43853D)
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -24,14 +23,25 @@
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest&logoColor=AD1860)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-black?style=flat-square&logo=testing-library&logoColor=E33332)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress&logoColor=17202C)
+![SuperTest](https://img.shields.io/badge/SuperTest-black?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=699eca)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=003B57)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
-![Pusher](https://img.shields.io/badge/Pusher-black?style=flat-square&logo=pusher&logoColor=3076F2)
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab&logoColor=FC6D26)
+![WebSocket](https://img.shields.io/badge/WebSocket-black?style=flat-square&logo=websocket)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io)
+
+---
+
+### Padrões e Arquiteturas
+
 ![Clean Code](https://img.shields.io/badge/Clean_Code-black?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-black?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-black?style=flat-square)
 ![MVVM](https://img.shields.io/badge/MVVM-black?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-black?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-black?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-black?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square)
 
 ---
 
