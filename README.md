@@ -1,4 +1,10 @@
-### Technologies
+### Formação
+
+🎓 Análise e Desenvolvimento de Sistemas — Instituto Federal de Roraima (IFRR)
+
+---
+
+### Tecnologias
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=007ACC)
@@ -16,9 +22,9 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
 
 
-  ##    
+---
 
-### Find me
+### Encontre-me
 <div> 
   <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-black?style=flat-square&logo=linkedin&logoColor=blue" target="_blank"></a> 
   <a href="https://instagram.com/lucaslimarm" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-black?style=flat-square&logo=instagram" target="_blank"></a>
