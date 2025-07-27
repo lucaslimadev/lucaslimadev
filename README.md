@@ -33,5 +33,5 @@
 ---
 
 <div> 
-  <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-black?style=flat-square&logo=linkedin&logoColor=blue" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucaslimax" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/d2n0s4ur" target="_blank"></a> 
 </div>
